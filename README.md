@@ -6,5 +6,5 @@ I'm a Civil Construction Technician and currently studying Civil Engineering, ov
 
 <strong>find me in</strong>
 
-<a href="https://github.com/carlosramirez357" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-javier-ram%C3%ADrez-guti%C3%A9rrez-7297b126a">
 <img src="https://www.rollingselectrical.co.uk/_webedit/cached-images/205-0-0-0-10000-10000-210.png" width="25" height="25" /></a>
