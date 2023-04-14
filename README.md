@@ -10,15 +10,3 @@ I'm a Civil Construction Technician and currently studying Civil Engineering, ov
 <img src="https://www.rollingselectrical.co.uk/_webedit/cached-images/205-0-0-0-10000-10000-210.png" width="25" height="25" /></a>
 <p><a href="mailto:cjrg201093@gmail.com">
 <img src="https://www.slipstick.com/images/2003/email/Message.png" width="25" height="25" /></a></p>
-
-<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" >
-        Link
-    </a>
-    
-<body>
-    <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" >
-        Link
-    </a>
-</body>
-
-<p>Dale un vistazo <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
